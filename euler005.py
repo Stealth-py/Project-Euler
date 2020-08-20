@@ -5,6 +5,7 @@ def gcd(x, y):
 
 def lcm(x, y):
     return (x * y) / gcd(x, y)
+    
 
 for _ in range(int(input())):
     n, temp = int(input()), 1
