@@ -1,4 +1,4 @@
-# Euler Contest
+# Euler Project Codes
 This is a compilation of all the codes of the Project Euler
 
 ## Note
