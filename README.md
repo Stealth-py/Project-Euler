@@ -1,5 +1,5 @@
-# Euler Project Codes
-This is a compilation of all the codes of the Project Euler 
+# Euler Project Codes - Hackerrank
+This is a compilation of all the codes of the Project Euler
 
 ## Note
 These answers are written for the contest Euler Project in Hackerrank
